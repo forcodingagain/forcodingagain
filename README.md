@@ -8,8 +8,8 @@
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) 
-![Nginx](https://img.shields.io/badge/Tools-Ngnix-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)  
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Nginx](https://img.shields.io/badge/Tools-Ngnix-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
 ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![PolarDB](https://img.shields.io/badge/Tools-PolarDB-informational?style=flat&logo=polardb&logoColor=white&color=6aa6f8)
